@@ -39,7 +39,7 @@ package january22;
 //    Can you solve the problem without modifying the array nums?
 //    Can you solve the problem using only constant, O(1) extra space?
 //    Can you solve the problem with runtime complexity less than O(n2)?
-class FindTheDuplicate {
+public class FindTheDuplicate {
     public static int findDuplicate(int[] nums) {
         int found = 0;
         for(int i=0; i< nums.length;i++) {
