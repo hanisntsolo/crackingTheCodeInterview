@@ -8,6 +8,5 @@ class SortArray {
         return nums;
         //Custom logic
         //possibly using bubble sort
-
     }
 }
