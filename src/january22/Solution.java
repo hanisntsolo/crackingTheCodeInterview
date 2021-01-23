@@ -1,4 +1,5 @@
 package january22;
+// Completed!
 //287. Find the Duplicate Number
 //Given an array of integers nums containing n + 1 integers where each integer is in the range [1, n] inclusive.
 //
@@ -38,7 +39,7 @@ package january22;
 //    Can you solve the problem without modifying the array nums?
 //    Can you solve the problem using only constant, O(1) extra space?
 //    Can you solve the problem with runtime complexity less than O(n2)?
-class Solution {
+class FindTheDuplicate {
     public static int findDuplicate(int[] nums) {
         int found = 0;
         for(int i=0; i< nums.length;i++) {
@@ -54,6 +55,6 @@ class Solution {
 
     public static void main(String[] args) {
         int[] arr = {1,4,4,2,2};
-        System.out.println(Solution.findDuplicate(arr));
+        System.out.println(FindTheDuplicate.findDuplicate(arr));
     }
 }
