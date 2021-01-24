@@ -47,7 +47,7 @@ public class MissingNumber {
     }
     public static void main(String[] args) {
         MissingNumber obj = new MissingNumber();
-        int[] test = new int[]{0,1,2,3,6,4};
+        int[] test = new int[]{0,1};
         System.out.println(test);
         System.out.println(obj.missingNumber(test));
     }
