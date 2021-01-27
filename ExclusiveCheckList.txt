@@ -1,0 +1,37 @@
+TCS Basic Coding Test Questions Chapters List //To be completed before giving the test!
+
+CheckMark the questions which you complete.
+
+Reverse a String.✔
+Reverse a Number.
+Palindrome.
+Prime Number.
+Leap Year.
+Greatest among 10 numbers.
+Fibonacci Series.
+HCF / GCD.
+Factorial.
+Decimal to Binary & vice versa
+Armstrong Number.
+Area.
+Swap 2 numbers.
+Concatenate 2 strings.
+LCM of Two Number using CLP.
+Average of Two Numbers.
+Sum of Digits of a number.
+Binary to Decimal.
+Decimal to Binary.
+Factorial of a Number.
+Square Root of Prime Number.
+Square Root without square root.
+Armstrong Number.
+Odd-Even Number.
+Binary to Octal.
+Decimal to Octal.
+Check Leap Year.
+Area of Circle.
+Checking Palindrome (Number).
+Area of Triangle.
+Checking Palindrome (String).
+Reverse Digits of a Number.
+Checking Prime or Not.
