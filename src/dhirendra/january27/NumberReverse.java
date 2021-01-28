@@ -12,7 +12,7 @@ public class NumberReverse {
     }
 
     public static void main(String[] args) {
-       int num =  reverseNumber(23);
+       int num =  reverseNumber(2345);
         System.out.println(num);
     }
 }

@@ -1,12 +1,12 @@
 TCS Basic Coding Test Questions Chapters List //To be completed before giving the test!
 
 CheckMark the questions which you complete.
-
+Palindromic Substring.
 Reverse a String.✔
-Reverse a Number.
-Palindrome.
-Prime Number.
-Leap Year.
+Reverse a Number.✔
+Palindrome.✔
+Prime Number.✔
+Leap Year.✔
 Greatest among 10 numbers.
 Fibonacci Series.
 HCF / GCD.
@@ -35,3 +35,16 @@ Area of Triangle.
 Checking Palindrome (String).
 Reverse Digits of a Number.
 Checking Prime or Not.
+Write a c program to check given number is prime number or not.
+Write a c program to check given number is strong number or not.
+C program to check a number is odd or even.
+Write a c program to check given number is palindrome number or not.
+Write a c program to check given string is palindrome number or not.
+Write a c program to solve quadratic equation.
+Write a c program to print Fibonacci series of given range.
+Write a c program to get factorial of given number.
+Write a c program for Floyd’s triangle.
+Write a c program to print Pascal triangle.
+Write a c program to generate multiplication table.
+Write a c program to print ASCII value of all characters.
+C program to print hello world without using semicolon.
