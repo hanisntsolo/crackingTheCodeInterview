@@ -2,49 +2,49 @@ TCS Basic Coding Test Questions Chapters List //To be completed before giving th
 
 CheckMark the questions which you complete.
 Palindromic Substring.
+Greatest among 10 numbers.
+Decimal to Binary & vice versa
+Armstrong Number.
+Concatenate 2 strings.
+Binary to Decimal.
+Decimal to Binary.
+Square Root without square root.?
+Armstrong Number.
+Binary to Octal.
+Decimal to Octal.
+Write a c program to check given number is strong number or not.
+Write a c program for Floyd’s triangle.
+Write a c program to print Pascal triangle.
 Reverse a String.✔
 Reverse a Number.✔
 Palindrome.✔
 Prime Number.✔
 Leap Year.✔
-Greatest among 10 numbers.
-Fibonacci Series.
-HCF / GCD.
-Factorial.
-Decimal to Binary & vice versa
-Armstrong Number.
-Area.
-Swap 2 numbers.
-Concatenate 2 strings.
-LCM of Two Number using CLP.
-Average of Two Numbers.
-Sum of Digits of a number.
-Binary to Decimal.
-Decimal to Binary.
-Factorial of a Number.
-Square Root of Prime Number.
-Square Root without square root.
-Armstrong Number.
-Odd-Even Number.
-Binary to Octal.
-Decimal to Octal.
-Check Leap Year.
-Area of Circle.
-Checking Palindrome (Number).
-Area of Triangle.
-Checking Palindrome (String).
-Reverse Digits of a Number.
-Checking Prime or Not.
-Write a c program to check given number is prime number or not.
-Write a c program to check given number is strong number or not.
-C program to check a number is odd or even.
-Write a c program to check given number is palindrome number or not.
-Write a c program to check given string is palindrome number or not.
-Write a c program to solve quadratic equation.
-Write a c program to print Fibonacci series of given range.
-Write a c program to get factorial of given number.
-Write a c program for Floyd’s triangle.
-Write a c program to print Pascal triangle.
-Write a c program to generate multiplication table.
-Write a c program to print ASCII value of all characters.
-C program to print hello world without using semicolon.
+Fibonacci Series.✔
+HCF / GCD.✔
+Factorial.✔
+Area.✔
+Swap 2 numbers.✔
+LCM of Two Number using CLP.✔
+Average of Two Numbers.✔
+Sum of Digits of a number.✔
+Factorial of a Number.✔
+Square Root of Prime Number.✔
+Odd-Even Number.✔
+Check Leap Year.✔
+Area of Circle.✔
+Checking Palindrome (Number).✔
+Area of Triangle.✔
+Checking Palindrome (String).✔
+Reverse Digits of a Number.✔
+Checking Prime or Not.✔
+Write a c program to check given number is prime number or not.✔
+C program to check a number is odd or even.✔
+Write a c program to check given number is palindrome number or not.✔
+Write a c program to check given string is palindrome number or not.✔
+Write a c program to solve quadratic equation.✔
+Write a c program to print Fibonacci series of given range.✔
+Write a c program to get factorial of given number.✔
+Write a c program to generate multiplication table.✔
+Write a c program to print ASCII value of all characters.✔
+C program to print hello world without using semicolon.✔
