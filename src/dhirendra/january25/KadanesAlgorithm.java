@@ -12,7 +12,9 @@ class Solution {
         int currentStreak = nums[0];
         int globalStreak = nums[0];
         for (int i=1;i<nums.length;i++) {
-            currentStreak = Math.max(nums[i], currentStreak+nums[i]);
+            currentStreak = java.lang.Math.max(nums[i], currentStreak+nums[i]);
+//            if(globalStreak<0)
+//                globalStreak=0;
             if(currentStreak>globalStreak){
                 globalStreak = currentStreak;
             }
