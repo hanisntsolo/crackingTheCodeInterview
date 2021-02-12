@@ -25,3 +25,5 @@ W
 'src/dhirendra/february12/WaveArray.java,b\2\b2db496a214890340dccd833f2805fbdd3d22d13
 Q
 !src/dhirendra/february12/GFG.java,6\7\67e7694e184718ec2d6bbc020c4c928a215f1762
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
