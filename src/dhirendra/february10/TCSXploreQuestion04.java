@@ -51,8 +51,8 @@ public class TCSXploreQuestion04 {
     private int threshold;
 
     public Inventory() {
-
     }
+
     public Inventory(String inventoryId, int maximumQuantity, int currentQuantity, int threshold) {
       this.inventoryId = inventoryId;
       this.maximumQuantity = maximumQuantity;
