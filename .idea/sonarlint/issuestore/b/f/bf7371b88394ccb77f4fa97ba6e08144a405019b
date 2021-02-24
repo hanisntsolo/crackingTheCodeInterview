@@ -1,0 +1,6 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(¶›¸Ä8çÉ¡¼ù.
+u	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ğ„„Û8²Ø¼ù.
+K
+java:S1066"/Merge this if statement with the enclosing one.(ó¯ËY8²Ø¼ù.
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(Ò‰»8²Ø¼ù.

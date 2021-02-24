@@ -1,0 +1,5 @@
+
+s
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ãø©Æşÿÿÿÿ8µ¡Âù.
+T	java:S106 "9Replace this use of System.out or System.err by a logger.(°ıñT8µ¡Âù.
+u	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(¶áƒ³8µ¡Âù.

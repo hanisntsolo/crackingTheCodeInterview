@@ -1,0 +1,10 @@
+
+X	java:S125!"<This block of commented-out lines of code should be removed.(ÚÆ©8©ş¶Âù.
+m	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ê›ë8©ş¶Âù.
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(õƒîÿÿÿÿÿ8©ş¶Âù.
+U
+java:S1197"8Move the array designator from the variable to the type.(…Úï8©ş¶Âù.
+D
+java:S1659
+"'Declare "min_index" on a separate line.(¯ê›ë8©ş¶Âù.

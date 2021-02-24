@@ -1,0 +1,6 @@
+
+\
+java:S1118":Add a private constructor to hide the implicit public one.(†â¡øþÿÿÿÿ8¥óÊ¼ù.
+Z
+java:S1197"8Move the array designator from the variable to the type.(›â«ˆûÿÿÿÿ8¥óÊ¼ù.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›â«ˆûÿÿÿÿ8¥óÊ¼ù.

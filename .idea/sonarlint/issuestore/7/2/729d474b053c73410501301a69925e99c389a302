@@ -1,0 +1,9 @@
+
+T
+java:S1128"9Remove this unused import 'javax.print.DocFlavor.READER'.(§²Ά—όÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(κέμΏϋÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Φ²ƒΎ
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(―ι΄ϊ
+]
+java:S2184+"BCast one of the operands of this division operation to a "double".(Ήβ¦ψÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(δηϋÿÿÿÿ
