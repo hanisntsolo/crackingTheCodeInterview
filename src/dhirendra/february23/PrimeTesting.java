@@ -43,7 +43,7 @@ public class PrimeTesting {
         Random in = new Random();
         while(true) {
 //            long input = Math.abs(in.nextLong()%100+2);
-            long largest = largestPrimeBestApproach(10);
+            long largest = largestPrimeBestApproach(20);
             System.out.println(largest);
         }
 
